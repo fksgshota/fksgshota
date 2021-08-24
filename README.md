@@ -1,3 +1,5 @@
+### 👋 Hi! I'm fksgshota
+
 <p align="left"> 
   <a href="https://github.com/fksgshota/fksgshota/">
     <img src="https://komarev.com/ghpvc/?username=fksgshota" alt="fksgshota" />
@@ -9,17 +11,24 @@
     <img height="20" src="https://img.shields.io/github/followers/fksgshota?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fksgshota&count_private=true&show_icons=true&theme=vue-dark" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=fksgshota&layout=compact" />
+    <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=fksgshota&count_private=true&show_icons=true&theme=vue-dark" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fksgshota&langs_count=10" />
+    <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fksgshota&layout=compact&show_icons=true&theme=vue-dark&langs_count=10" />
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fksgshota&show_icons=true&theme=vue-dark&layout=compact" />
+  </a>
+</p>
+
+#### Development Environment
+
+- Favorite Languages: Ruby
+- Editor: VSCode
+- Shell: zsh
+- PC: MacBook Pro 13-inch
+- Keyboard: Keychron K3
