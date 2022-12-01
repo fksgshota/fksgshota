@@ -1,4 +1,4 @@
-### 👋 Hi! I'm fksgshota
+### 👋 Hi! I'm Shota Fukushige
 
 <p align="left"> 
   <a href="https://github.com/fksgshota/fksgshota/">
