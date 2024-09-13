@@ -35,5 +35,5 @@
 - Favorite Languages: Ruby
 - Editor: VSCode
 - Shell: zsh
-- PC: MacBook Pro 13-inch
-- Keyboard: Keychron K3
+- PC: MacBook Pro 14-inch M2 Max
+- Keyboard: NuPhy Air60 V2
