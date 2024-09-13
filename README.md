@@ -12,6 +12,11 @@
   </a>
 </p>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,aws,cloudflare,css,docker,dynamodb,figma,firebase,git,github,graphql,heroku,html,js,jest,jquery,md,mysql,nestjs,nextjs,notion,postgres,postman,prisma,rails,raspberrypi,react,redis,ruby,sass,svelte,ts,vscode,vue,vuetiy" />
+  </a>
+</p>
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=fksgshota&count_private=true&show_icons=true&theme=vue-dark" />
   </a>
